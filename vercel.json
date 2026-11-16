@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/profesias-de-las-parashot.html"
+    }
+  ]
+}
